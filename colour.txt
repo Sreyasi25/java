@@ -13,3 +13,7 @@ silver
 green
 
 grey
+
+olive
+sky blue
+teal blue
