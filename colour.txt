@@ -7,3 +7,5 @@ violet
 indigo
 brown
 pink
+gold
+silver
