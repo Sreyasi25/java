@@ -17,3 +17,7 @@ grey
 olive
 sky blue
 teal blue
+
+peach
+white
+yellow
