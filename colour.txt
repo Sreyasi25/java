@@ -21,3 +21,6 @@ teal blue
 peach
 white
 yellow
+
+magenta
+light blue
